@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+    <configuration default="false" name="JavaJunior_4 Hebirnate" type="Application" factoryName="Application">
+        <option name="MAIN_CLASS_NAME" value="org.example.HW4.hebirnateDemo.MainApp" />
+        <module name="JavaJunior" />
+        <extension name="coverage">
+            <pattern>
+                <option name="PATTERN" value="org.example.HW4.hebirnateDemo.*" />
+                <option name="ENABLED" value="true" />
+            </pattern>
+        </extension>
+        <method v="2">
+            <option name="Make" enabled="true" />
+        </method>
+    </configuration>
+</component>
